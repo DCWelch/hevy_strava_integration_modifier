@@ -25,7 +25,6 @@ To host this yourself, follow this general guide:
 ## Contributing
 
 If you want help, found a bug, or wish to suggest an improvement, please open [open an issue](https://github.com/your-username/strava-integration-modifier/issues). If you are not comfortable submitting an issue, feel free to reach out here:  
-- Email: dcwelch545@gmail.com  
-- GitHub: [@DCWelch](https://github.com/DCWelch)
+- Email: [dcwelch545@gmail.com](mailto:dcwelch545@gmail.com)
 
 If you would like to contribute directly, feel free to fork the repo and submit a pull request!
